@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Et al. Lab</title>
-    <link>https://etal-lab.github.io/post/</link>
-      <atom:link href="https://etal-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Academic | Et al. Lab</title>
+    <link>https://etal-lab.github.io/tags/academic/</link>
+      <atom:link href="https://etal-lab.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>https://etal-lab.github.io/post/</link>
+      <title>Academic</title>
+      <link>https://etal-lab.github.io/tags/academic/</link>
     </image>
     
     <item>

@@ -5,12 +5,20 @@
     <link>https://etal-lab.github.io/tags/</link>
       <atom:link href="https://etal-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://etal-lab.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://etal-lab.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>https://etal-lab.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
