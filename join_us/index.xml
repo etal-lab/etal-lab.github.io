@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Et al. Lab</title>
+    <link>https://etal-lab.github.io/join_us/</link>
+      <atom:link href="https://etal-lab.github.io/join_us/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://etal-lab.github.io/img/icon-192.png</url>
+      <title>Overview</title>
+      <link>https://etal-lab.github.io/join_us/</link>
+    </image>
+    
+  </channel>
+</rss>
