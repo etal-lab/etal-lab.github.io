@@ -220,5 +220,21 @@ git submodule update --init --recursive
 </description>
     </item>
     
+    <item>
+      <title>The Near-field Jet Behavior of 60° Dense Jets Discharged Into A Perpendicular Crossflow</title>
+      <link>https://etal-lab.github.io/publication/near-field-jet-behavior/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 -0400</pubDate>
+      <guid>https://etal-lab.github.io/publication/near-field-jet-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Simulation of Dominant Eddies of A Co-Flowing Jet</title>
+      <link>https://etal-lab.github.io/publication/digital-simulation-of-dominant-eddies/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      <guid>https://etal-lab.github.io/publication/digital-simulation-of-dominant-eddies/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
