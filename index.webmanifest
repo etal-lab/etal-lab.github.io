@@ -2,8 +2,8 @@
   "name": "Et al. Lab",
   "short_name": "Et al. Lab",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#FFA500",
+  "background_color": "#FFA500",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
