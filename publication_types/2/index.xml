@@ -5,12 +5,20 @@
     <link>https://etal-lab.github.io/publication_types/2/</link>
       <atom:link href="https://etal-lab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://etal-lab.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A Kármán–Howarth–Monin equation for variable-density turbulence</title>
+      <link>https://etal-lab.github.io/publication/karmanhowarthmonin/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/karmanhowarthmonin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example journal article</title>
