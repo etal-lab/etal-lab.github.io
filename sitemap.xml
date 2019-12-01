@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/project/internal-project/</loc>
+    <loc>https://etal-lab.github.io/project/multi-body-turbulent-flow/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/multiphase-flow/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +23,12 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/tag/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etal-lab.github.io/tags/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/turbulent-mixing/</loc>
+    <loc>https://etal-lab.github.io/tags/vegetated-flow/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,6 +94,11 @@
   
   <url>
     <loc>https://etal-lab.github.io/authors/katherine-prestridge/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/turbulent-mixing/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
   

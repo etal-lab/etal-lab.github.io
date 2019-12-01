@@ -5,21 +5,12 @@
     <link>https://etal-lab.github.io/tags/turbulent-mixing/</link>
       <atom:link href="https://etal-lab.github.io/tags/turbulent-mixing/index.xml" rel="self" type="application/rss+xml" />
     <description>Turbulent mixing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>Turbulent mixing</title>
       <link>https://etal-lab.github.io/tags/turbulent-mixing/</link>
     </image>
-    
-    <item>
-      <title>Production of turbulence in an array of spheres with relative motions-- air-water flows</title>
-      <link>https://etal-lab.github.io/project/internal-project/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Environmental flows involving air or water interacting with heterogeneous objects such as particles, droplets or buildings are of great concern to the civil engineering discipline because of the modifications brought by the objects to the flow field, and hence, to the turbulent dispersion of solute and heat. The goal is to use high-resolution, volumetric velocity and scalar concentration field data to inform turbulence modeling of such flows. A refractive-index matched (RIM) tilting water flume will be constructed to carry out the experimental investigation.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>A Kármán–Howarth–Monin equation for variable-density turbulence</title>
