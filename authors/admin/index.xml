@@ -195,6 +195,14 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>A LES-based Eulerian–Lagrangian approach to predict the dynamics of bubble plumes</title>
+      <link>https://etal-lab.github.io/publication/les-based/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/les-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mixing in the Intermediate Field of Dense Jets in Cross Currents</title>
       <link>https://etal-lab.github.io/publication/mixing-in-the-intermediate-field-of-dense-jets-in-cross-currents/</link>
       <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
