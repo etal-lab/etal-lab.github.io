@@ -69,18 +69,58 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>https://etal-lab.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      <guid>https://etal-lab.github.io/tags/academic/</guid>
+      <title>Bubble plumes</title>
+      <link>https://etal-lab.github.io/tags/bubble-plumes/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/bubble-plumes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bubble plumes</title>
-      <link>https://etal-lab.github.io/tags/bubble-plumes/</link>
-      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/bubble-plumes/</guid>
+      <title>Delta functions</title>
+      <link>https://etal-lab.github.io/tags/delta-functions/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/delta-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagrangian Particle Tracking</title>
+      <link>https://etal-lab.github.io/tags/lagrangian-particle-tracking/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/lagrangian-particle-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-eddy simulation</title>
+      <link>https://etal-lab.github.io/tags/large-eddy-simulation/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/large-eddy-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slip velocity</title>
+      <link>https://etal-lab.github.io/tags/slip-velocity/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/slip-velocity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way coupling</title>
+      <link>https://etal-lab.github.io/tags/two-way-coupling/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/tags/two-way-coupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://etal-lab.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>https://etal-lab.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
@@ -113,46 +153,6 @@
       <link>https://etal-lab.github.io/tags/velocity-spectra/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://etal-lab.github.io/tags/velocity-spectra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delta functions</title>
-      <link>https://etal-lab.github.io/tags/delta-functions/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/delta-functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lagrangian Particle Tracking</title>
-      <link>https://etal-lab.github.io/tags/lagrangian-particle-tracking/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/lagrangian-particle-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large-eddy simulation</title>
-      <link>https://etal-lab.github.io/tags/large-eddy-simulation/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/large-eddy-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slip velocity</title>
-      <link>https://etal-lab.github.io/tags/slip-velocity/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/slip-velocity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two-way coupling</title>
-      <link>https://etal-lab.github.io/tags/two-way-coupling/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/tags/two-way-coupling/</guid>
       <description></description>
     </item>
     
