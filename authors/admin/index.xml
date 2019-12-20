@@ -5,12 +5,20 @@
     <link>https://etal-lab.github.io/authors/admin/</link>
       <atom:link href="https://etal-lab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Et al. Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>Et al. Lab</title>
       <link>https://etal-lab.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Energy cascade in a homogeneous swarm of bubbles rising in a vertical channel</title>
+      <link>https://etal-lab.github.io/publication/linear-autoregressive-models/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/linear-autoregressive-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Kármán–Howarth–Monin equation for variable-density turbulence</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>Evaluation of linear autoregressive models for estimation of energy spectra in gappy turbulent velocity data</title>
-      <link>https://etal-lab.github.io/publication/linear-autoregressive-models/</link>
+      <link>https://etal-lab.github.io/publication/homogeneous-swarm-of-bubbles-rising/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/publication/linear-autoregressive-models/</guid>
+      <guid>https://etal-lab.github.io/publication/homogeneous-swarm-of-bubbles-rising/</guid>
       <description></description>
     </item>
     

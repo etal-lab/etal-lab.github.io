@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bruño Fraga | Et al. Lab</title>
-    <link>https://etal-lab.github.io/authors/bruno-fraga/</link>
-      <atom:link href="https://etal-lab.github.io/authors/bruno-fraga/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bruño Fraga</description>
+    <title>WRH Chan | Et al. Lab</title>
+    <link>https://etal-lab.github.io/authors/wrh-chan/</link>
+      <atom:link href="https://etal-lab.github.io/authors/wrh-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>WRH Chan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
-      <title>Bruño Fraga</title>
-      <link>https://etal-lab.github.io/authors/bruno-fraga/</link>
+      <title>WRH Chan</title>
+      <link>https://etal-lab.github.io/authors/wrh-chan/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://etal-lab.github.io/publication/linear-autoregressive-models/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://etal-lab.github.io/publication/linear-autoregressive-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A LES-based Eulerian–Lagrangian approach to predict the dynamics of bubble plumes</title>
-      <link>https://etal-lab.github.io/publication/les-based/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/publication/les-based/</guid>
       <description></description>
     </item>
     

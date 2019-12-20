@@ -5,7 +5,7 @@
     <link>https://etal-lab.github.io/authors/</link>
       <atom:link href="https://etal-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,36 @@
     <item>
       <title></title>
       <link>https://etal-lab.github.io/authors/admin/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://etal-lab.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Dr. Chris Chung-Kei Lai is an assistant professor in the School of Civil and Environmental Engineering at Georgia Institute of Technology. He is also a guest scientist of the &lt;a href=&#34;https://www.lanl.gov/projects/shocktube/index.html&#34; target=&#34;_blank&#34;&gt;Extreme Fluids Team&lt;/a&gt;, physics division P-23, at Los Alamos National Laboratory, USA.&lt;/p&gt;
 
 &lt;p&gt;His expertise is on the design and control of the transport/exchange of contaminants and nutrients in water/air bodies and across the interface between the two. This transport/exchange is heavily governed by the turbulence presence inside the fluid. His group uses and develops &lt;strong&gt;experimental methods&lt;/strong&gt; to study the dynamic interplay between turbulent flows and their surroundings and &lt;strong&gt;continuum mechanics&lt;/strong&gt; for the development of predictive models of turbulence.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bruño Fraga</title>
+      <link>https://etal-lab.github.io/authors/bruno-fraga/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/authors/bruno-fraga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS Dodd</title>
+      <link>https://etal-lab.github.io/authors/ms-dodd/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/authors/ms-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WRH Chan</title>
+      <link>https://etal-lab.github.io/authors/wrh-chan/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/authors/wrh-chan/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,14 +68,6 @@
       <link>https://etal-lab.github.io/authors/scott-a-socolofsky/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://etal-lab.github.io/authors/scott-a-socolofsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bruño Fraga</title>
-      <link>https://etal-lab.github.io/authors/bruno-fraga/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/authors/bruno-fraga/</guid>
       <description></description>
     </item>
     
