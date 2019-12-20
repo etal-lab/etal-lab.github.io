@@ -278,21 +278,6 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/academic/</loc>
-    <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/post/getting-started/</loc>
-    <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/post/</loc>
-    <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etal-lab.github.io/publication_types/7/</loc>
     <lastmod>2015-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -429,6 +414,10 @@
   
   <url>
     <loc>https://etal-lab.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/post/</loc>
   </url>
   
   <url>
