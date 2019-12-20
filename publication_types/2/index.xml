@@ -5,12 +5,20 @@
     <link>https://etal-lab.github.io/publication_types/2/</link>
       <atom:link href="https://etal-lab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://etal-lab.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>The turbulent kinetic energy budget in a bubble plume</title>
+      <link>https://etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Budgets of turbulent kinetic energy, Reynolds stresses, and dissipation in a turbulent round jet discharged into a stagnant ambient</title>
