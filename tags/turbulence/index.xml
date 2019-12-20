@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Turbulence | Et al. Lab</title>
+    <title>turbulence | Et al. Lab</title>
     <link>https://etal-lab.github.io/tags/turbulence/</link>
       <atom:link href="https://etal-lab.github.io/tags/turbulence/index.xml" rel="self" type="application/rss+xml" />
-    <description>Turbulence</description>
+    <description>turbulence</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Environmental turbulence and analysis littera Laboratory</copyright><lastBuildDate>Mon, 14 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etal-lab.github.io/img/icon-192.png</url>
-      <title>Turbulence</title>
+      <title>turbulence</title>
       <link>https://etal-lab.github.io/tags/turbulence/</link>
     </image>
     

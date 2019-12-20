@@ -66,21 +66,6 @@ $\bigtriangleup $ Liquid turbulence in bubbly turbulent flows&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://etal-lab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Kármán–Howarth–Monin equation for variable-density turbulence</title>
       <link>https://etal-lab.github.io/publication/karmanhowarthmonin/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
@@ -237,6 +222,22 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Bubble Plumes in Unstratified Stagnant Water</title>
+      <link>https://etal-lab.github.io/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A LES-based Eulerian–Lagrangian approach to predict the dynamics of bubble plumes</title>
+      <link>https://etal-lab.github.io/publication/les-based/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/publication/les-based/</guid>
+      <description></description>
     </item>
     
     <item>
