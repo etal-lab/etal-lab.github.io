@@ -127,5 +127,16 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://etal-lab.github.io/authors/ssoumya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://etal-lab.github.io/authors/ssoumya/</guid>
+      <description>&lt;p&gt;Shantanu Soumya is a PhD student of the Et al. lab in CEE at Georgia Tech. He is currently working on instrumentations that combine two-color laser-induced fluorescence (LIF) and stereo particle image velocimetry (SPIV) to simultaneously measure the passive tracer mass and fluid velocity inside a turbulent bubble plume.&lt;/p&gt;
+
+&lt;p&gt;In his master’s special problem research, he worked on particle tracking velocimetry (PTV) of copepod trajectories in burgers vortex. He also worked on study of probabilistic transition from turbulent to chaotic behavior in Taylor-Couette flow through numerical simulations.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
