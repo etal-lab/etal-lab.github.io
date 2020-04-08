@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://etal-lab.github.io/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://etal-lab.github.io/join_us/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://etal-lab.github.io/tags/density-stratification/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +103,7 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/gas/liquid-flows/</loc>
+    <loc>https://etal-lab.github.io/tags/jet/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,11 +120,6 @@
   <url>
     <loc>https://etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/k-/overline/epsilon-models/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -189,11 +184,6 @@
   
   <url>
     <loc>https://etal-lab.github.io/tags/gas-bubble/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/jet/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -429,7 +419,15 @@
   </url>
   
   <url>
+    <loc>https://etal-lab.github.io/tags/k-/overline/epsilon-models/</loc>
+  </url>
+  
+  <url>
     <loc>https://etal-lab.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/gas/liquid-flows/</loc>
   </url>
   
   <url>
