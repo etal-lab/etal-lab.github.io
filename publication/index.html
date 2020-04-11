@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -66,8 +66,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -253,8 +255,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://etal-lab.github.io/publication/">
 
@@ -272,8 +274,8 @@
   <meta property="og:site_name" content="Et al. Lab">
   <meta property="og:url" content="https://etal-lab.github.io/publication/">
   <meta property="og:title" content="Publications | Et al. Lab">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://etal-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://etal-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2019-07-03T00:00:00&#43;00:00">
   
@@ -332,10 +334,15 @@
 
   
 
+
+
+
+
+
+
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
-    
     
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Et al. Lab</a>
@@ -781,11 +788,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/binbin-wang/">Binbin Wang</a></span>, <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
-
   </span>
   (2019).
   <a href="/publication/weak-bubble-plumes/">Mean velocity, spreading and entrainment characteristics of weak bubble plumes in unstratified and stationary water</a>.
@@ -854,11 +858,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
-
   </span>
   (2019).
   <a href="/publication/turbulent-kinetic-energy-budget/">The turbulent kinetic energy budget in a bubble plume</a>.
@@ -927,11 +928,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
-
   </span>
   (2018).
   <a href="/publication/budgets-of-turbulent-kinetic-energy/">Budgets of turbulent kinetic energy, Reynolds stresses, and dissipation in a turbulent round jet discharged into a stagnant ambient</a>.
@@ -1000,11 +998,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span>Bruño Fraga</span>, <span><a href="/authors/ronald-chan/">Ronald Chan</a></span>, <span><a href="/authors/michael-dodd/">Michael Dodd</a></span>
-
+  <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/bruno-fraga/">Bruño Fraga</a></span>, <span><a href="/authors/ronald-chan/">Ronald Chan</a></span>, <span><a href="/authors/michael-dodd/">Michael Dodd</a></span>
   </span>
   (2018).
   <a href="/publication/homogeneous-swarm-of-bubbles-rising/">Energy cascade in a homogeneous swarm of bubbles rising in a vertical channel</a>.
@@ -1073,11 +1068,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/binbin-wang/">Binbin Wang</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>, <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/eric-e-adams/">Eric E Adams</a></span>, <span><a href="/authors/michel-c-boufadel/">Michel C Boufadel</a></span>
-
   </span>
   (2018).
   <a href="/publication/bubble-breakup-in-gas-pipeline/">Behavior and dynamics of bubble breakup in gas pipeline leaks and accidental subsea oil well blowouts</a>.
@@ -1146,11 +1138,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/john-j-charonko/">John J Charonko</a></span>, <span><a href="/authors/katherine-prestridge/">Katherine Prestridge</a></span>
-
   </span>
   (2018).
   <a href="/publication/karmanhowarthmonin/">A Kármán–Howarth–Monin equation for variable-density turbulence</a>.
@@ -1219,11 +1208,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
-
   </span>
   (2017).
   <a href="/publication/linear-autoregressive-models/">Evaluation of linear autoregressive models for estimation of energy spectra in gappy turbulent velocity data</a>.
@@ -1292,11 +1278,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>
-
   </span>
   (2015).
   <a href="/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/">An Analysis of Bubble Plumes in Unstratified Stagnant Water</a>.
@@ -1365,11 +1348,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
-  <span>Bruño Fraga</span>, <span><a href="/authors/thorsten-stoesser/">Thorsten Stoesser</a></span>, <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
-
+  <span><a href="/authors/bruno-fraga/">Bruño Fraga</a></span>, <span><a href="/authors/thorsten-stoesser/">Thorsten Stoesser</a></span>, <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/scott-a-socolofsky/">Scott A Socolofsky</a></span>
   </span>
   (2015).
   <a href="/publication/les-based/">A LES-based Eulerian–Lagrangian approach to predict the dynamics of bubble plumes</a>.
@@ -1438,11 +1418,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/kw-choi/">KW Choi</a></span>, <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/joseph-hw-lee/">Joseph HW Lee</a></span>
-
   </span>
   (2015).
   <a href="/publication/mixing-in-the-intermediate-field-of-dense-jets-in-cross-currents/">Mixing in the Intermediate Field of Dense Jets in Cross Currents</a>.
@@ -1511,11 +1488,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/joseph-hw-lee/">Joseph HW Lee</a></span>
-
   </span>
   (2013).
   <a href="/publication/initial-mixing-of-inclined-dense-jet/">Initial mixing of inclined dense jet in perpendicular crossflow</a>.
@@ -1584,11 +1558,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/joseph-hw-lee/">Joseph HW Lee</a></span>
-
   </span>
   (2012).
   <a href="/publication/mixing-of-inclined-dense-jets-in-stationary-ambient/">Mixing of inclined dense jets in stationary ambient</a>.
@@ -1661,11 +1632,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/joseph-hw-lee/">Joseph HW Lee</a></span>
-
   </span>
   (2011).
   <a href="/publication/near-field-jet-behavior/">The Near-field Jet Behavior of 60° Dense Jets Discharged Into A Perpendicular Crossflow</a>.
@@ -1734,11 +1702,8 @@
   <span class="article-metadata li-cite-author">
     
 
-
-
   
   <span><a href="/authors/admin/">Chris CK Lai</a></span>, <span><a href="/authors/joseph-hw-lee/">Joseph HW Lee</a></span>, <span><a href="/authors/km-lam/">KM Lam</a></span>
-
   </span>
   (2009).
   <a href="/publication/digital-simulation-of-dominant-eddies/">Digital Simulation of Dominant Eddies of A Co-Flowing Jet</a>.
@@ -1814,14 +1779,14 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.3/mermaid.min.js" integrity="" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
@@ -1835,6 +1800,11 @@
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -1899,7 +1869,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
 
     
 
