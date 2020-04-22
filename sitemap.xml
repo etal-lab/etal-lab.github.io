@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://etal-lab.github.io/authors/admin/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/authors/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/post/small-bets-award-2020/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://etal-lab.github.io/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/grant/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/post/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
   <url>
@@ -48,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etal-lab.github.io/project/turbulent-flow-in-porous-media/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
@@ -63,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/authors/admin/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etal-lab.github.io/publication_types/2/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,10 +443,6 @@
   
   <url>
     <loc>https://etal-lab.github.io/tags/gas/liquid-flows/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/post/</loc>
   </url>
   
   <url>
