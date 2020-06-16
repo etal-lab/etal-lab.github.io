@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://etal-lab.github.io/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/past_members/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://etal-lab.github.io/authors/admin/</loc>
     <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
@@ -24,6 +14,11 @@
   
   <url>
     <loc>https://etal-lab.github.io/post/small-bets-award-2020/</loc>
+    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/</loc>
     <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
