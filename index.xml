@@ -5,25 +5,12 @@
     <link>https://etal-lab.github.io/</link>
       <atom:link href="https://etal-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Environmental turbulence and analysis littera Laboratory</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://etal-lab.github.io/images/icon_hu2547a779dfd9218acbedb132edfe59d8_88726_512x512_fill_lanczos_center_2.png</url>
       <title> </title>
       <link>https://etal-lab.github.io/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://etal-lab.github.io/home/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://etal-lab.github.io/home/welcome/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    The website has migrated to &lt;a href=&#34;https://lai-etal-lab.github.io/&#34;&gt;Lai-etal-lab.github.io/&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
