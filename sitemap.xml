@@ -3,438 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://etal-lab.github.io/home/welcome/</loc>
+  </url>
+  
+  <url>
     <loc>https://etal-lab.github.io/authors/admin/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/post/small-bets-award-2020/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://etal-lab.github.io/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/grant/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/post/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/</loc>
-    <lastmod>2020-04-22T17:18:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/join_us/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/density-stratification/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/hyporheic-mixing/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/mixing-efficiency/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/project/multi-body-turbulent-flow/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/multiphase-flow/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/project/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/project/mixing-and-scale-interactions-in-stratified-turbulence/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/project/turbulent-flow-in-porous-media/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/vegetated-flow/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication_types/2/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/binbin-wang/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/weak-bubble-plumes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication_types/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/scott-a-socolofsky/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/jet/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/jets/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/shear-layer-turbulenc/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/turbulent-kinetic-energy-budget/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/budgets-of-turbulent-kinetic-energy/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/dissipation/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/energy-budgets/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/turbulent-round-jets/</loc>
-    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication_types/1/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/bruno-fraga/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/homogeneous-swarm-of-bubbles-rising/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/michael-dodd/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/ronald-chan/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/bubble-breakup-in-gas-pipeline/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/bubble-size-distribution/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/eric-e-adams/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/gas-bubble/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/michel-c-boufadel/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/particle-breakup/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/plume/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/subsea-oil-well-blowout/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/karmanhowarthmonin/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/energy-cascade/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/john-j-charonko/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/katherine-prestridge/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/turbulent-mixing/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/bubble-plumes/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/delta-functions/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/linear-autoregressive-models/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/lagrangian-particle-tracking/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/large-eddy-simulation/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/slip-velocity/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/two-way-coupling/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication_types/7/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/an-analysis-of-bubble-plumes-in-unstratified-stagnant-water/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/data-interpolation/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/turbulence/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/two-phase-flows/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/velocity-spectra/</loc>
-    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/les-based/</loc>
-    <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/thorsten-stoesser/</loc>
-    <lastmod>2015-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/dense-jets/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/intermediate-field/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/jet-impingement/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/joseph-hw-lee/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/kw-choi/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/mixing-and-transport/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/mixing-in-the-intermediate-field-of-dense-jets-in-cross-currents/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/near-far-field-coupling/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/numerical-modeling/</loc>
-    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/desalination/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/initial-mixing-of-inclined-dense-jet/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/jet-integral-models/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/negative-buoyant-jets/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/vortex-entrainment/</loc>
-    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/entrainment-hypothesis/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/mixing-of-inclined-dense-jets-in-stationary-ambient/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/near-field-jet-behavior/</loc>
-    <lastmod>2011-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/publication/digital-simulation-of-dominant-eddies/</loc>
-    <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/km-lam/</loc>
-    <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/mamustafa/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/ssoumya/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/swalters/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/authors/zbyrd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etal-lab.github.io/tags/k-/overline/epsilon-models/</loc>
+    <loc>https://etal-lab.github.io/authors/</loc>
   </url>
   
   <url>
@@ -442,11 +23,27 @@
   </url>
   
   <url>
-    <loc>https://etal-lab.github.io/tags/gas/liquid-flows/</loc>
+    <loc>https://etal-lab.github.io/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/publication/</loc>
   </url>
   
   <url>
     <loc>https://etal-lab.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etal-lab.github.io/tags/</loc>
   </url>
   
 </urlset>
